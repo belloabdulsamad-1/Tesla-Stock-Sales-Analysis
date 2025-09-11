@@ -107,7 +107,7 @@ Sale Status (Exit)
 
 ## Power BI Dashboard
 
-![Amazon Dashboard] (<img width="1292" height="745" alt="Tesla Sales Dashboard" src="https://github.com/user-attachments/assets/55c3cb4f-b826-4051-8e25-50e41195a01f" />)
+![Tesla Dashboard] (<img width="1292" height="745" alt="Tesla Sales Dashboard" src="https://github.com/user-attachments/assets/55c3cb4f-b826-4051-8e25-50e41195a01f" />)
 
 ---
 
