@@ -1,7 +1,7 @@
 # Tesla-Stock-Sales-Analysis
 This project explores Tesla's stock sales data to identify trends, price movements, and trading volumes over time. It includes data cleaning, visualization, and insights to support investment decisions.
 
-##  Table of Contents
+# Table of Contents
 
 1. [Project Overview](#project-overview)  
 2. [Tools Used](#tools-used)  
